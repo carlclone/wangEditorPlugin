@@ -1,0 +1,16 @@
+{
+    "name": "carlclone/wang_editor_for_laravel_admin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "carlclone",
+            "email": "carlclone@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Carlclone\\WangEditorPlugin":"src/"
+        }
+    }
+}
